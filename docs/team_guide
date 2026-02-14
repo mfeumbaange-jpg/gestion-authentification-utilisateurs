@@ -1,0 +1,9 @@
+# Team Guide
+
+## 1. Cloner et configurer le projet
+
+### Cloner le dépôt
+
+```bash
+git clone https://github.com/<votre-utilisateur>/<nom-du-depot>.git
+cd <nom-du-depot>
