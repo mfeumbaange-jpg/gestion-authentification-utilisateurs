@@ -1,2 +1,2 @@
 # gestion-authentification-utilisateurs
-inscription , connexion , déconnexion , gestion des sessions et sécurisation des accès
+inscription , connexion , déconnexion , gestion des sessions , sécurisation des accès et footbool
